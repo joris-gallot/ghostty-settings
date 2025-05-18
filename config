@@ -1,0 +1,3 @@
+theme=dark:adwaita dark,light:adwaita
+font-size=15
+shell-integration=zsh
